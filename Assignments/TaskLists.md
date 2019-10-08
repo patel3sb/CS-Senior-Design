@@ -1,7 +1,7 @@
-<h2>Project Members</h2>
+<h2>Project Tasks</h2>
 <ul>
-<li>Smit Patel, Patel3sb@mail.uc.edu</li>
-<li>Prathamesh B., bramhapc@mail.uc.edu</li>
-<li>Jessica Doyal, doyalja@mail.uc.edu</li>
-<li>Collin Fox, foxcj@mail.uc.edu</li>
+<li>insert task 1 here</li>
+<li>insert task 2 here</li>
+<li>insert task 3 here</li>
+<li>insert task 4 here</li>
 </ul>
