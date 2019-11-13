@@ -9,7 +9,7 @@
 </ul>
 
 <h2>Faculty Advisor Information</h2>
-Jason Heyl
+Jason Heyl, jason.heyl@uc.edu
 
 <h2>Project Background Description</h2>
 Currently there is not a way to determine the exact amount of rainfall and erosion experienced by structures specific to the University of Cincinnati. Our project aims to address this by implementing measuring and communication devices to analyze rainfall data for display via a mobile or desktop webapp.  
