@@ -12,7 +12,7 @@
 Jason Heyl
 
 <h2>Project Background Description</h2>
-Currently there is not a way to determine the exact amount of rainfall and erosion experienced by structures specific to the University of Cincinnati. Our project aims to do this through the use of measuring and communication devices that will allow us to analyze this information for display via a mobile or desktop webapp.  
+Currently there is not a way to determine the exact amount of rainfall and erosion experienced by structures specific to the University of Cincinnati. Our project aims to address this by implementing measuring and communication devices to analyze rainfall data for display via a mobile or desktop webapp.  
 
 <h2>Problem Statement</h2>
 The data analyzed by this project can be used to estimate the stress and erosion that is put on the structures here, which can be used to determine when maintenence should be performed and prevent potentially deadly accidents from occurring in the event of a failure.
