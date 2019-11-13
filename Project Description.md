@@ -9,7 +9,7 @@
 </ul>
 
 <h2>Faculty Advisor Information</h2>
-(unsure)
+Jason Heyl
 
 <h2>Project Background Description</h2>
 Currently there is not a way to determine the exact amount of rainfall on campus at the University of Cincinnati. 
