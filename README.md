@@ -1,5 +1,5 @@
 # CS-Senior-Design
-# Senior Design Project
+Senior Design Project
 
 <h2>1. Project Abstract with Team names and Advisor name</h2>
 https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
