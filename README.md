@@ -15,15 +15,22 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
 <li>Design Diagram Level 2 (Data flow from rainfall to UC Professors to Students) - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram3.png</li>
   </ul>
   
-Design Diagrams: Level 0, Level 1 and Level 2 
-Description of the Diagrams: including conventions and a brief description of the purpose of each component.
-Project Tasks and Timeline
-Task List
-Timeline
-Effort Matrix
-ABET Concerns Essay (Optional)
-PPT Slideshow
-Self-Assessment Essays
+4. Project Tasks and Timeline
+https://github.com/prat97/CS-Senior-Design/blob/master/Timeline.png
+
+5. PPT Slideshow
+https://docs.google.com/presentation/d/1EaxKhhKEkbpdKuCuDUOl-vtdQIWhhdaaHZnuDhHHPV4/edit?ts=5dbafffc#slide=id.p
+
+6. Self-Assessment Essays
+  <ul>
+  <li>Collin - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Collin%20Fox/HW3CapstoneAssessmentCollin.md</li>
+<li>Smit - </li>
+<li>Prathamesh B. - </li>
+<li>Jessica Doyal - </li>
+  </ul>
+
+
+
 Professional Biographies
 Budget
 expenses to date or statement that there have not been any.
