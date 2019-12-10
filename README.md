@@ -2,15 +2,15 @@
 Senior Design Project
 
 <h2>1. Project Abstract with Team names and Advisor name</h2>
-https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
+https://github.com/prat97/CS-Senior-Design/wiki/Project-Abstract
 
 
 <h2>2. Project Description</h2>
-https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
+https://github.com/prat97/CS-Senior-Design/wiki/Project-Description
 
 
 <h2>3. User Stories and Design Diagrams</h2>
-  <ul>
+  <ul>https://github.com/prat97/CS-Senior-Design/wiki/User-Stories-and-Design-Diagrams
   <li>User Stories - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/User_Stories.md</li>
 <li>Design Diagram Level 0 (Data flow from rainfall to Construction Manager) - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram1.png</li>
 <li>Design Diagram Level 1 (Data flow from rainfall to UC Students) - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram2.png</li>
