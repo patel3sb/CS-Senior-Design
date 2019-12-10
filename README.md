@@ -5,11 +5,11 @@ Senior Design Project
 https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
 
 
-2. Project Description
+<h2>2. Project Description</h2>
 https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
 
 
-3. User Stories and Design Diagrams
+<h2>3. User Stories and Design Diagrams</h2>
   <ul>
   <li>User Stories - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/User_Stories.md</li>
 <li>Design Diagram Level 0 (Data flow from rainfall to Construction Manager) - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram1.png</li>
@@ -18,15 +18,15 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
   </ul>
   
   
-4. Project Tasks and Timeline
+<h2>4. Project Tasks and Timeline</h2>
 https://github.com/prat97/CS-Senior-Design/blob/master/Timeline.png
 
 
-5. PPT Slideshow
+<h2>5. PPT Slideshow</h2>
 https://docs.google.com/presentation/d/1EaxKhhKEkbpdKuCuDUOl-vtdQIWhhdaaHZnuDhHHPV4/edit?ts=5dbafffc#slide=id.p
 
 
-6. Self-Assessment Essays
+<h2>6. Self-Assessment Essays</h2>
   <ul>
   <li>Collin - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Collin%20Fox/HW3CapstoneAssessmentCollin.md</li>
 <li>Smit - https://github.com/prat97/CS-Senior-Design/tree/master/Assignments/Smit%20Patel</li>
