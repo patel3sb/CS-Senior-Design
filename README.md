@@ -10,9 +10,9 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Project%20Description.md
 3. User Stories and Design Diagrams
   <ul>
   <li>User Stories - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/User_Stories.md</li>
-<li>Design Diagram Level 1 - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram1.png</li>
-<li>Design Diagram Level 2 - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram2.png</li>
-<li>Design Diagram Level 3 - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram3.png</li>
+<li>Design Diagram Level 0 - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram1.png</li>
+<li>Design Diagram Level 1 - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram2.png</li>
+<li>Design Diagram Level 2 - https://github.com/prat97/CS-Senior-Design/blob/master/Design_Diagrams/Diagram3.png</li>
   </ul>
   
 Design Diagrams: Level 0, Level 1 and Level 2 
