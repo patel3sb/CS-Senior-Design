@@ -35,8 +35,9 @@ https://docs.google.com/presentation/d/1EaxKhhKEkbpdKuCuDUOl-vtdQIWhhdaaHZnuDhHH
   </ul>
 
 
+<h2>7. Professional Biographies</h2>
+https://github.com/prat97/CS-Senior-Design/tree/master/Bios
 
-Professional Biographies
 Budget
 expenses to date or statement that there have not been any.
 show monetary value of donated items and donation sources.
