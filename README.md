@@ -38,9 +38,9 @@ https://docs.google.com/presentation/d/1EaxKhhKEkbpdKuCuDUOl-vtdQIWhhdaaHZnuDhHH
 <h2>7. Professional Biographies</h2>
 https://github.com/prat97/CS-Senior-Design/tree/master/Bios
 
-Budget
-expenses to date or statement that there have not been any.
-show monetary value of donated items and donation sources.
-Appendix
+<h2>8. Budget</h2>
+https://github.com/prat97/CS-Senior-Design/blob/master/Timeline.png
+
+<h2>9. Appendix</h2>
 include appropriate references, citations, links to code repositories, and meeting notes.
 there should be evidence justifying 45 hours of effort for each team member.
