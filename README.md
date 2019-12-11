@@ -44,3 +44,4 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Timeline.png
 <h2>9. Appendix</h2>
 include appropriate references, citations, links to code repositories, and meeting notes.
 there should be evidence justifying 45 hours of effort for each team member.
+https://docs.google.com/spreadsheets/d/12a0LAmbmMF1vukCAsXWTU-dlC-V3uGoL0YIouNrK7F4/edit#gid=0
