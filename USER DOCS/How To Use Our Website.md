@@ -4,7 +4,7 @@ UC Rainfall Analysis
 
 How to Use Our Website
 
-NOTE: we are currently working out issues with AWS Support regarding issues hosting our dynamic PHP website publicly. Our registered domain is ucrainfall.org. In the meantime, the information below explains everything needed to navigate and use our website. 
+NOTE: we are currently working out issues with AWS Support regarding hosting our dynamic PHP website publicly. Our registered domain is ucrainfall.org. In the meantime, the information below explains everything needed to navigate and use our website. 
 
 This document focuses **solely** on how to use the **user-interactive** features of our website.
 
