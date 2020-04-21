@@ -1,6 +1,9 @@
 # CS-Senior-Design
 Senior Design Project
 
+Instructions related to our website and its usage can be found at:
+https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/How%20To%20Use%20Our%20Website.md
+
 <h2>1. Project Abstract with Team names and Advisor name</h2>
 https://github.com/prat97/CS-Senior-Design/wiki/Project-Abstract
 
