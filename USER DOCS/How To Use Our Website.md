@@ -46,7 +46,7 @@ The about page requires no user-interaction.
 
 ![ContactPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png)
 
-Depending on which member of our group you'd like to contact, click the respective buttons (click the person's name). Your default mail application will open and put the selected group member's email address in the "To" field.
+Depending on which member of our group you'd like to contact, click the respective person's name. Your default email application will open and put the selected group member's email address in the "To" field of a new email.
 
 If needed, documentation regarding enabling/disabling this feature can be found at:
 https://support.tryshift.com/kb/article/59-mailto-links-fixed/
