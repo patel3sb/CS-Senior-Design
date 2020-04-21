@@ -1,0 +1,730 @@
+@font-face
+{
+    font-family: 'verdana';
+}
+
+.boxed {
+	color: white;
+	text-align: center;
+	border: 3px solid white;
+	width: 250px;
+	height: 80px;
+	padding: 2%;
+	font-size: 1.5em;
+}
+
+.boxedtwo {
+	font-family: 'verdana';
+	position: inline-block;
+	max-width: 200px;
+	max-height: 100px;
+	color: white;
+	padding:1%;
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 10px;
+
+	font-size: 1.5em;
+}
+
+select {
+	padding-left: .5%;
+	padding-top: .5%;
+	padding-bottom: .5%;
+	font-family: 'verdana'; 
+	font-size: .8em;
+	font-weight: normal;
+}
+
+td
+{
+    background-color: transparent;
+    font-weight:bold;
+    text-align: center;
+}
+
+td#SensorReadingsRows
+{
+	font-family: 'verdana';
+	font-weight: bold;
+	min-width: 100px;
+	box-shadow:0 2px 2px 2px black;
+    background-color: transparent;
+    text-align: center;
+}
+
+td#MaterialsRows
+{
+	display: inline-block;
+	box-shadow:0 2px 2px 2px black;
+    background-color: transparent;
+    font-weight:normal;
+    text-align: center;
+}
+
+td#StructuresRows
+{
+	display: inline-block;
+	box-shadow:0 2px 2px 2px black;
+    background-color: transparent;
+    font-weight:normal;
+    text-align: center;
+}
+
+td#PagesTableDataArea
+{
+	font-family: 'verdana';
+	font-size: 1em;
+	box-shadow:0 2px 2px 2px black;
+    background-color: transparent;
+    font-weight:bold;
+    text-align: center;
+}
+
+
+tbody#rainfalldata
+{
+	
+	
+}
+
+tbody#materialsdata
+{
+		
+	
+}
+
+tr#MaterialsArea
+{
+	vertical-align: middle;
+	font-size: 1em;
+	width: 900px;
+	border-style: none;
+	display: inline-block;
+	
+}
+
+tr#StructuresArea
+{
+	padding-right:5%;
+	vertical-align: middle;
+	font-size: 1em;
+	width: 900px;
+	border-style: none;
+	display: inline-block;
+	
+}
+
+th#Rainfall_PAGE_NUMS_HeaderBox
+{
+	height: 30px;
+	font-family: 'verdana';
+	min-width: 125px;
+	color: white;
+	background: url('Rain4.jpg');
+	
+	box-shadow:0 2px 2px 2px black; 
+	padding: 5%;
+
+	font-size: 1em;
+    text-align: center;
+}
+
+th#Rainfall_DATA_HeaderBox
+{
+	font-weight: bold;
+	font-family: 'verdana'; 
+	font-size: 1em;
+	color: white;
+	background: url('Rain4.jpg');
+	width: 30px;
+	box-shadow:0 2px 2px 2px black; 
+	padding-top: 2%;
+	padding-bottom: 2%;
+
+    text-align: center;
+}
+
+th#Materials_DATA_HeaderBox
+{
+	display: inline-block;
+	box-shadow:0 2px 2px 2px black;
+	vertical-align: middle;
+	width: 120px;
+	height: 40px;
+	color: white;
+	background: url('Rain4.jpg');
+	
+	padding-top: .5%;
+	padding-bottom: 1%;
+	padding-left:.5%;
+	padding-right:.5%;
+	font-weight: normal;
+	font-size: .7em;
+}
+
+
+table tr:nth-of-type(odd)
+{
+
+	border: 3px solid #4f72e3;
+	/*border: 3px solid #4f72e3;*/
+    text-align: center;
+    color: black;
+    /*background-color: transparent;*/
+}
+
+table tr:nth-of-type(even)
+{
+
+	border: 3px solid #4f72e3;
+	font-size: 1.2em;
+    text-align: center;
+    color: #4f72e3;
+    /*background-color: transparent;*/
+}
+
+table td
+{
+	font-size: 1em;
+    white-space: nowrap;
+
+    text-align: center;
+    color: black;
+    /*background-color: transparent;*/
+}
+
+table#navButtonsTable {
+	
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,1);
+	/*
+	-moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	*/
+	width: 100%;    
+}
+
+table#PageNumbersTable {
+	padding-left: 25%;
+	padding-top: 3%;
+	
+	/*
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,1);
+	-moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	*/   
+}
+
+table#RainfallDataTable {
+	padding-left: 0%;
+	
+	/*
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,1);
+	-moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	*/   
+}
+
+table#MaterialsTable {
+	
+	/*
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,1);
+	-moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	*/   
+}
+
+table#StructuresTable {
+	/*
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,1);
+	-moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	*/   
+}
+	/*
+	box-shadow: 0px 0px 5px 5px rgba(0,0,0,1);
+	-moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+	*/   
+}
+
+table th
+{
+
+	/*padding-top: .5%;
+	padding-bottom: .5%; */
+	
+}
+
+
+
+nav a
+{
+
+    color: black;
+    text-align: center;
+    display: inline-block;
+}
+
+
+form
+{
+	font-family: 'verdana';
+    font-size: .6em;
+}
+
+
+
+input {
+	padding-left: .5%;
+	padding-top: .5%;
+	padding-bottom: .5%;
+	font-family: 'verdana'; 
+	font-size: .8em;
+	font-weight: normal;
+	
+}
+
+input#NextAndPreviousButtons
+{
+	font-size: .8em;
+	padding-top: 3%;
+    padding-bottom: 3%;
+	padding-right: 3%;
+	padding-left: 3%;
+	
+}
+
+body
+{
+	height: auto;
+	background-position: center;
+	overflow-x: hidden; 
+   	overflow-y: hidden; 
+   	
+    display: inline-block; 
+    margin: 0 auto;  
+	padding-bottom: 10%;
+
+}
+
+header
+{
+	font-size: .8em;
+	background-image: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,1)), url("Rain4-1.jpg");
+	/*background-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url("UniversityOfCincinnatiLogo.png");*/
+
+    background-position: center;
+	background-size: 45%;
+    background-color: #4f72e3;  
+	padding-right: 1.5%;
+    height: 37px;   
+}
+
+img#UClogo {
+	position: fixed;
+	top: 0px;
+	right: 10px;
+}
+
+img#Poster {
+	text-align: center;	
+}
+
+#Contact {
+	padding-top: 5%;
+	border: 3px solid black;
+	text-align:center;
+	font-family: 'verdana';
+	
+}
+
+.image-container {
+    text-align: center;
+	padding-top: .75%;
+}
+
+#navigator
+{
+	border-bottom: 2px solid black;
+	min-width: 100vw;
+	background-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url("UC2.png");
+	font-family: 'verdana'; 
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+	padding-bottom: 2.2%;
+	background-size: 40%;
+	background-position: center;
+    height: 11px;
+    text-align: left;
+	
+}
+
+#navigatorButtons
+{
+	height: 15px; padding-top: .6%; padding-right: 1%; display: inline-block; 
+}
+
+
+#contacts a
+{
+    margin: 0%;
+    padding: 0%;
+    background-position: center;
+    box-shadow:0 2px 2px 2px black;
+    padding: 1.1%;
+    margin: 1.9%;
+    color: black;
+    font-family: Lato;
+    text-align: center;
+    font-size: 3em;
+    display: block;
+}
+
+#Columns
+{	
+	border-radius: 3px;
+	font-family: 'verdana'; 
+	font-size: .75em;
+	padding-top: .25%;
+	padding-bottom: .25%;
+	font-weight: normal;
+	width: 150px;
+	
+}
+
+#Columns2
+{
+	vertical-align: middle;
+	border-radius: 3px;
+	font-size: .75em;
+	font-weight: normal;
+	width: 125px;
+	
+}
+
+.nav a
+{
+    margin: 0%;
+    color: white;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+
+a:link
+{
+    font-size: .9em;
+    text-decoration: none;
+    color: black;
+}
+
+a:visited
+{
+	font-size: .9em;
+    color: black;
+}
+
+a:hover
+{
+	font-size: .9em;
+    text-decoration: underline;
+}
+
+a#PageNumberLinks:link
+{
+    
+    text-decoration: none;
+    color: black;
+}
+
+a#PageNumberLinks:visited
+{
+    color: #021b42
+}
+
+a#PageNumberLinks:hover
+{
+    text-decoration: underline;
+}
+
+div#BottomOfPage
+{
+	text-align: center;
+	font-family: 'verdana';
+	width: 100%;
+	height: 40px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	
+}
+
+div#home{
+	min-height: 575px;
+	vertical-align: middle;
+	width: 100%;
+	display: block;
+	background-color: black;
+	background-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)), url("Rain3-1.jpg");
+	background-position: cover;
+	background-repeat: no-repeat;
+	image-rendering: -webkit-optimize-contrast;
+}
+
+img#RainfallGraph {
+	position: fixed;
+	bottom: 80px;
+	left: 250px;
+	border-radius: 4px;
+}
+
+div#text
+{
+	display: inline-block;
+	padding-left: 3%;
+}
+
+div#MaterialsFloatArea
+{
+	display: inline-block;
+}
+
+.float-container {
+	vertical-align: middle;
+	font-size: 1.5em;
+	font-family: 'verdana';
+	min-height: 575px;
+	min-width: 100vw;
+	background-image: none;	
+	display: inline-block;
+    padding-top: 10px;
+	border-style: none;
+}
+div#text.float-child {
+	vertical-align: middle;
+	background:none;
+	display: inline-block;
+    width: 30%;
+    float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-style: none;
+} 
+div#MaterialsFloatArea.float-child {
+	vertical-align: middle;
+	background:none;
+	display: inline-block;
+    width: 65%;
+    float: right;
+	border-style: none;
+} 
+
+footer
+{
+
+    background: transparent;
+    font-size: .6em;
+    font-style: italic;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    
+}
+
+footer a
+{
+    text-decoration: none;
+}
+
+footer a:link
+{
+    color: black;
+}
+
+footer a:visited
+{
+    color: #000080;
+}
+
+footer a:hover
+{
+    text-decoration: underline;
+}
+
+h1
+{
+	padding-right: 10px;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	font-size: 1.5em;
+    /*letter-spacing: 10px; */
+
+    margin: 0px;
+    color: black;
+    
+    /*font-size: 2em; */
+	/*
+    font-family: 'True Lies'; */
+	font-family: 'verdana';
+    
+}
+
+h2
+{
+    font-family: 'verdana';
+    font-size: .6em;
+    padding-top: 30px;
+    text-align: left;
+    margin: auto;
+}
+
+h3
+{
+    font-size: .7em;
+}
+
+h4
+{
+	font-size: .6em;
+}
+
+h5
+{
+	text-align: center;
+	font-weight: normal;
+	font-size: 1.5em;
+    /*letter-spacing: 10px; */
+    padding: 10px;
+    margin: 0px;
+    color: black;
+    
+    /*font-size: 2em; */
+	/*
+    font-family: 'True Lies'; */
+	font-family: 'verdana'; 
+}
+
+h6
+{
+	color: white;
+    font-size: .7em;
+}
+
+
+#numbers
+{
+    
+    font-weight: bold;
+    margin: 0px;
+    padding: 3%;
+    font-family: Lato;
+    letter-spacing: 3px;
+    font-size: 1em;
+}
+
+#numbers a
+{
+    font-weight: normal;
+    font-size: 1.3em;
+    font-family: 'Lato';
+    line-height: 200%;
+    color: black;
+    padding: 2%;
+    letter-spacing: 0px;
+    
+}
+
+
+#mobile
+{
+    display: none;
+}
+
+#desktop
+{
+    display: inline-block;
+}
+
+dt
+{
+    font-weight: bold;
+}
+
+
+    
+@media only screen and (max-width: 37.5em) /* Mobile View */
+{
+    nav li /* boxes around "home tracks explore" buttons */
+    {
+        color: white;
+        box-shadow:0 2px 2px 2px blue;
+        box-sizing: border-box;
+        background-color: black; 
+        
+        font-size: 110%;
+        text-align: center;   
+    }
+    
+    h1
+    {
+        font-family: Lato;
+    }
+   
+
+    a:hover
+    {
+        text-decoration: underline;
+    }
+
+    footer
+    {
+        width: 100vw;
+        font-size: .8em;
+        font-style: italic;
+        text-align: center;
+        padding: 5%;
+        margin: 0%;
+        background-color: white;
+        color: black;
+        
+    }
+
+    footer a
+    {
+        
+        text-decoration: none;
+    }
+
+    footer a:link
+    {
+        color: black;
+    }
+
+    footer a:visited
+    {
+        color: #000080;
+    }
+
+    footer a:hover
+    {
+        text-decoration: underline;
+    }
+    
+    
+    #mobile
+    {
+        display: inline-block;
+    }
+    
+    #desktop
+    {
+        display: none;
+    }
+}
