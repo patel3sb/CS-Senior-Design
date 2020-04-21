@@ -1,24 +1,34 @@
 # Senior Design CS5002 - User Documentation
-# UC Rainfall Analysis
+UC Rainfall Analysis
 
-# How to Use Our Website
+How to Use Our Website
 Our project consists of five pages:
-  * Rainfall
-  * Structures
-  * Tools
-  * About
-  * Contact
+  * Rainfall https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/RainfallPage.png
+  * Structures https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/StructuresPage.png
+  * Tools https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png
+  * About https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png
+  * Contact https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-<h2>1. Project Abstract with Team names and Advisor name</h2>
-
-
-<h2>1. Project Abstract with Team names and Advisor name</h2>
-https://github.com/prat97/CS-Senior-Design/wiki/Project-Abstract
+<h2>1. "Rainfall" Page</h2>
+![RainfallPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/RainfallPage.png)
+laksjdgklasdjglkjs
 
 
-<h2>2. Project Description</h2>
-https://github.com/prat97/CS-Senior-Design/wiki/Project-Description
+<h2>2. "Structures" Page</h2>
+![StructuresPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/StructuresPage.png)
+laksjdgklasdjglkjs
+
+<h2>3. "Tools" Page</h2>
+![ToolsPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png)
+laksjdgklasdjglkjs
+
+<h2>4. "About" Page</h2>
+![AboutPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png)
+laksjdgklasdjglkjs
+
+<h2>5. "Contact" Page</h2>
+![ContactPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png)
+laksjdgklasdjglkjs
 
 
 <h2>3. User Stories and Design Diagrams</h2>
