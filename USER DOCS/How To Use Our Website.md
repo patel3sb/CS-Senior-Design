@@ -10,6 +10,7 @@ Our project consists of five pages:
   * Contact https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png
 
 <h2>1. "Rainfall" Page</h2>
+
 ![RainfallPage]
 (https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/RainfallPage.png)
 
@@ -17,24 +18,26 @@ laksjdgklasdjglkjs
 
 
 <h2>2. "Structures" Page</h2>
-![StructuresPage]
-(https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/StructuresPage.png)
+
+![StructuresPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/StructuresPage.png)
 
 laksjdgklasdjglkjs
 
 <h2>3. "Tools" Page</h2>
-![ToolsPage]
-(https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png)
+
+![ToolsPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png)
 
 laksjdgklasdjglkjs
 
 <h2>4. "About" Page</h2>
+
 ![AboutPage]
 (https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png)
 
 laksjdgklasdjglkjs
 
 <h2>5. "Contact" Page</h2>
+
 ![ContactPage]
 (https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png)
 
