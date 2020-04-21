@@ -9,13 +9,21 @@ Our project consists of five pages:
   * About https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png
   * Contact https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png
 
+NOTE: we are currently working out issues with AWS Support regarding issues hosting our dynamic PHP website publicly. In the meantime, the information below explains everything needed to navigate and use our website. 
+
+Every page in our website contains the following:
+ * Top: Navigation panel with 5 options (Rainfall, Structures, Tools, About, Contact)
+ * Middle: main page content (varies by page, explained below)
+ * Bottom: footer containing text "This website was created for CS5002 Senior Design Project"
+
 <h2>1. "Rainfall" Page</h2>
 
-![RainfallPage]
-(https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/RainfallPage.png)
+![RainfallPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/RainfallPage.png)
 
-laksjdgklasdjglkjs
-
+Rainfall-page-specific contents:
+ * Page numbers selector - By clicking either the numbered pages or the "Next" and "Previous" buttons, one can navigate between each page of data (20 rows per page)
+ * Data from 'sensorreadings' DB table - consists of dates, times, and rainfall values in inches (collected and inserted via our physical setup - a Raspberry Pi 3B, an HC-SR04 ultrasonic sensor, and wiring to connect these)
+ * Graph of rainfall levels by date - python script "MakeRainfallPlot.py" automatically generates an image based on the rainfall data on the current page. Rainfall values are inserted each night at 11:59 PM and values less than .05 in. are discarded to account for the slight amount of tolerance
 
 <h2>2. "Structures" Page</h2>
 
@@ -23,23 +31,30 @@ laksjdgklasdjglkjs
 
 laksjdgklasdjglkjs
 
+
+
+
 <h2>3. "Tools" Page</h2>
 
 ![ToolsPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png)
 
 laksjdgklasdjglkjs
 
+
+
+
 <h2>4. "About" Page</h2>
 
-![AboutPage]
-(https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png)
+![AboutPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png)
 
 laksjdgklasdjglkjs
 
+
+
+
 <h2>5. "Contact" Page</h2>
 
-![ContactPage]
-(https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png)
+![ContactPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png)
 
 laksjdgklasdjglkjs
 
