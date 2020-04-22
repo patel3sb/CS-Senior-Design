@@ -1,11 +1,11 @@
 # Website Contents
 
 Our project consists of five pages:
-  * Rainfall https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/RainfallPage.png
-  * Structures https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/StructuresPage.png
-  * Tools https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png
-  * About https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/AboutPage.png
-  * Contact https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ContactPage.png
+  * Rainfall 
+  * Structures
+  * Tools
+  * About
+  * Contact
 
 Every page in our website contains the following:
  * Top: Navigation panel with 5 options (Rainfall, Structures, Tools, About, Contact)
