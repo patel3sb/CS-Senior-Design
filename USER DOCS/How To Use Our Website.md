@@ -33,6 +33,7 @@ To navigate between each of the five pages in our website, click the "Rainfall",
 ![ToolsPage](https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/Pictures/ToolsPage.png)
 
  * First, view the data in the table on the right, then choose the material type you'd like to estimate the cost of, dimensions (length, width, with height being optional), the unit types of these dimensions, and the unit type from the table you'd like to use to estimate costs of (see image above.)
+ * After setting desired values, click "Calculate"
  * View the now displayed data, and interpret results based on printed values seen above.
 
 <h2>4. "About" Page</h2>
