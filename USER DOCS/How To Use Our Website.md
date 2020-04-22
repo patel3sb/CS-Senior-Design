@@ -13,7 +13,7 @@ https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/WebsiteConten
 
 # Instructions
 
-To navigate between each of the five pages in our website, click the "Rainfall", "Structures", "Tools", "About", and "Contact" buttons located in the header near the top of the screen (shown in image above.)
+To navigate between each of the five pages in our website, click the "Rainfall", "Structures", "Tools", "About", and "Contact" buttons located in the header near the top of the screen (shown in the image below)
 
 <h2>1. "Rainfall" Page</h2>
 
