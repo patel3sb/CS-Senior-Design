@@ -6,6 +6,7 @@ https://github.com/prat97/CS-Senior-Design/wiki/Project-Description
 <h2>2. User Interface Specification (optional inclusion of UI design)</h2>
 
 <h2>3. Test Plan and Results</h2>
+https://docs.google.com/document/d/1fijROBM3iEO8Ve8jiaPqmUauYlFH6K9FS_YrpW1w_Yc/edit#heading=h.rwxw94wdptf
 
 <h2>4. User Manual</h2>
 https://github.com/prat97/CS-Senior-Design/blob/master/USER%20DOCS/How%20To%20Use%20Our%20Website.md
