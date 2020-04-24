@@ -1,5 +1,4 @@
 # CS-Senior-Design - Table Of Contents
-Senior Design Project
 
 <h2>1. Project Description</h2>
 https://github.com/prat97/CS-Senior-Design/wiki/Project-Description
@@ -18,14 +17,14 @@ https://github.com/prat97/CS-Senior-Design/blob/master/HW3presentation.md
 https://github.com/prat97/CS-Senior-Design/blob/master/Poster_Final_Draft.pptx
 
 <h2>7. Assessment</h2>
-<h1> Inital Self-Assessment (fall-semester)</h1>
+<h3> Inital Self-Assessment (fall-semester)</h3>
   <ul>
   <li>Collin - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Collin%20Fox/HW3CapstoneAssessmentCollin.md</li>
 <li>Smit - https://github.com/prat97/CS-Senior-Design/tree/master/Assignments/Smit%20Patel</li>
 <li>Prathamesh B. - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Prathamesh/CS%20SD%20Assignment%203.docx</li>
 <li>Jessica Doyal - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Jessica%20Doyal/Assignment%20%233.docx</li>
   </ul>
-<h1> Final Self-Assessment (spring-semester)</h1>
+<h3> Final Self-Assessment (spring-semester)</h3>
 <ul>
   <li>Collin - </li>
 <li>Smit - https://github.com/prat97/CS-Senior-Design/blob/master/Assignemnt_6.docx</li>
@@ -33,7 +32,7 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Poster_Final_Draft.pptx
 <li>Jessica Doyal - </li>
   </ul>
 
-<h2>8. Summary of Hours and Justification (one per individual team member)</h2>
+<h2>8. Summary of Hours and Justification</h2>
 https://drive.google.com/file/d/1XQuBDkfbqfcoZ7mgLOqt0Q4kwL3BZfSC/view?usp=sharing
 
 <h2>9. Summary of Expenses (Optional)</h2>
