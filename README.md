@@ -1,4 +1,4 @@
-# CS-Senior-Design - Table Of Contents
+# CS-Senior-Design - Table Of Contents - UC RAINFALL ANALYSIS
 
 <h2>1. Project Description</h2>
 https://github.com/prat97/CS-Senior-Design/wiki/Project-Description
