@@ -36,5 +36,5 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Poster_Final_Draft.pptx
 <h2>8. Summary of Hours and Justification</h2>
 https://drive.google.com/file/d/1XQuBDkfbqfcoZ7mgLOqt0Q4kwL3BZfSC/view?usp=sharing
 
-<h2>9. Summary of Expenses (Optional)</h2>
+<h2>9. Summary of Expenses</h2>
 https://github.com/prat97/CS-Senior-Design/blob/master/Timeline.png
