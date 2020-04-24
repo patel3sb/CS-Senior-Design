@@ -1,4 +1,4 @@
-# SD - Table Of Contents - UC RAINFALL ANALYSIS
+# SD - Table Of Contents - UC rainfall analysis
 
 <h2>1. Project Description</h2>
 https://github.com/prat97/CS-Senior-Design/wiki/Project-Description
