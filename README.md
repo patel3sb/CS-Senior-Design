@@ -28,7 +28,7 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Poster_Final_Draft.pptx
   </ul>
 <h3> Final Self-Assessment (spring-semester)</h3>
 <ul>
-  <li>Collin - </li>
+  <li>Collin - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Collin%20Fox/IndividualReflectionLink</li>
 <li>Smit - https://github.com/prat97/CS-Senior-Design/blob/master/Assignemnt_6.docx</li>
 <li>Prathamesh B. - </li>
 <li>Jessica Doyal - https://github.com/prat97/CS-Senior-Design/blob/master/Assignments/Jessica%20Doyal/SelfAssesmentLink</li>
