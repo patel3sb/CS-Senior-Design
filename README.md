@@ -30,7 +30,7 @@ https://github.com/prat97/CS-Senior-Design/blob/master/Poster_Final_Draft.pptx
   <li>Collin - </li>
 <li>Smit - https://github.com/prat97/CS-Senior-Design/blob/master/Assignemnt_6.docx</li>
 <li>Prathamesh B. - </li>
-<li>Jessica Doyal - </li>
+<li>Jessica Doyal - https://drive.google.com/file/d/1suwFoSlZ2m03lb5dOxxPmUljOX38LtIV/view?usp=sharing</li>
   </ul>
 
 <h2>8. Summary of Hours and Justification</h2>
